@@ -1,0 +1,70 @@
+body{
+     background-color: antiquewhite;
+  
+    
+
+}
+ .generals{
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 6px;
+     border-style: solid;
+     border-color: red;
+ }
+
+ footer{
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     border: solid 7px green;
+     margin-top: 19px;
+ }
+
+ .julius{
+     background-color: aquamarine;
+     font-size: 20px;
+     padding: 40px;
+     margin-top: 0;
+     margin-bottom: 0;
+ }
+
+ .genghis{
+
+     background-color: blueviolet;
+     font-size: 20px;
+     padding: 40px;
+     margin-top: 0;
+     margin-bottom: 0;
+
+ }
+
+ .napoleon{
+     background-color: #E1D9D1;
+     font-size: 20px;
+     padding: 40px;
+     margin-top: 0;
+     margin-bottom: 0;
+
+ }
+ 
+
+ .hannibal{
+     background-color: red;
+     font-size: 20px;
+     padding: 40px;
+     margin-top: 0;
+     margin-bottom: 0;
+ }
+
+
+ .alexander{
+     background-color: gold;
+     font-size: 20px;
+     padding: 40px;
+     margin-top: 0;
+     margin-bottom: 0;
+ }
